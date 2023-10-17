@@ -4,4 +4,7 @@
 <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
 </a>
 
+📍   Current location: Uzbekistan Anywhere
+📝  Ask me about anything, I am happy to help
+📨  How to reach me: @temural1yev
 
