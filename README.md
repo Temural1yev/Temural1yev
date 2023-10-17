@@ -1,4 +1,4 @@
-### Hi, I'm ZAFAR TEMURALIYEV <img src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e473jjq3i9ipszvw28t9j6ip6pspvdvevopd3yr4t5l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="27px">
+### Hi, I'm ZAFAR TEMURALIYEV <img src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&dpr=1&w=1000">
 
 <a href="@temural1yev">
 <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
