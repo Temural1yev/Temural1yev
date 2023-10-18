@@ -3,5 +3,9 @@
 <a href="@temural1yev">
 <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
 </a>
+<br/>
+### Languages and tools I work with:
+<code><img src-"https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="30px"></code>
+
 
 
