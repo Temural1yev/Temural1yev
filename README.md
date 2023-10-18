@@ -4,7 +4,7 @@
 <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
 </a>
 <br/>
-### Languages and tools I work with:
+Languages and tools I work with:
 
 HTML/CSS/JS/SCSS/REACT/..
 
