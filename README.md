@@ -6,7 +6,7 @@
 <br/>
 Languages and tools I work with:
 
-<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="30px"> <img src="https://e7.pngegg.com/pngimages/726/609/png-clipart-logo-css3-cascading-style-sheets-html-tonic-miscellaneous-angle.png" width="30px"> <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
+<img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" width="30px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30px"> <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
 
 
 
