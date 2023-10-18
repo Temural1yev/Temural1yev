@@ -6,9 +6,8 @@
 <br/>
 Languages and tools I work with:
 
-<img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
-<img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
-<img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
+<img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px"> <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px"> <img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
+
 
 
 
