@@ -5,7 +5,7 @@
 </a>
 <br/>
 ### Languages and tools I work with:
-HTML/CSS/JS/SCSS/REACT/..
+### HTML/CSS/JS/SCSS/REACT/..
 
 
 
