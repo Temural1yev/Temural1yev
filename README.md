@@ -5,7 +5,7 @@
 </a>
 <br/>
 ### Languages and tools I work with:
-<code><img src-"https://icon2.cleanpng.com/20180430/cow/kisspng-html-computer-icons-5ae73de58cf2d7.3955931915251041015773.jpg" width="30px"></code>
+<code><img src-"https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px"></code>
 
 
 
