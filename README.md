@@ -6,7 +6,8 @@
 <br/>
 Languages and tools I work with:
 
-HTML/CSS/JS/SCSS/REACT/..
+<img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="30px">
+
 
 
 
